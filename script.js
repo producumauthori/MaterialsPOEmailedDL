@@ -193,7 +193,7 @@ function showSuccessAndRedirect() {
     popup.classList.add('active');
     setTimeout(() => {
         popup.classList.remove('active');
-        window.location.href = 'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf';
+        window.location.href = 'https://netorgft4015335.sharepoint.com/_layouts/15/sharepoint.aspx';
     }, 1800);
 }
 
